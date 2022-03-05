@@ -1,6 +1,6 @@
 <template>
   <div>
-    Bar do pedro
+    Bar do pedro2
   </div>
 </template>
 
